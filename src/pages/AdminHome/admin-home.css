@@ -1,0 +1,18 @@
+.div-adminHome{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.wrapper-adminHome{
+    flex-grow: 1;
+}
+
+.iframe-maps{
+    position: absolute;
+    right: 120px;
+    top: 100px;
+}
+
+
